@@ -1,2 +1,2 @@
 # My-project
-I am creating this repository for our project about Calculator
+I have created this repository for our project about Calculator
